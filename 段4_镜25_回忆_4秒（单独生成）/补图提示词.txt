@@ -1,0 +1,36 @@
+﻿段4_镜25_回忆_4秒（单独生成）
+
+这个文件夹还要放 2 张新图。每条给两种写法：用 Nano Banana 就复制英文那段，用即梦就复制中文那段。
+
+========================================
+② C01-Y 少年爸爸（2026 年，12 岁）（镜 25（回忆））
+上传参考：
+① R01_女主角色设定图.jpg
+② R02_父亲角色设定图.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style, line weight, coloring and sheet layout, and the attached father's character sheet as the reference for his face, create a character design sheet for Ye Zixuan at twelve, the father as a boy in the year 2026, a new character from the same animated film. He is clearly the same person as the man in the attached father's character sheet, only twenty-six years younger: the same face shape, the same straight thick eyebrows and the same lopsided grin, with short black hair in a neat crew cut, a skinny build and slightly too-long sleeves. He wears the real 2026 Xiushan school uniform: a zip-up jacket with a baseball collar, cream-white shoulders, a royal-blue horizontal stripe across the chest and a deep navy body, with plain dark trousers and white sneakers. Nothing on him glows, because this is the present day, before any future gear. Show two views side by side: a front full body on the left and a front half-body close-up on the right, on a plain aged cream-paper background, with soft even lighting and a relaxed, neutral standing pose with the whole body in frame. Keep the sheet clean, with only the drawings and no labels, notes or sketches. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 参考@图片1（女儿的角色设定图）的画风、线条粗细、上色方式和配色，画一张同一部动画里少年时代的爸爸叶子轩的角色设定图：正面全身和正面半身特写两个视图左右并排，米色旧纸张底。人物：十二岁的中国男孩，是@图片2里那位父亲二十六年前的样子：同样的脸型、同样浓而直的眉毛、同样有点歪的笑；黑色短寸头，身材瘦，袖子有点长。穿2026年真实的绣山中学校服：棒球领拉链外套，肩部米白色，胸前一道宝蓝色横条，衣身深海军蓝；深色长裤，白色球鞋。这是今天的校服，全身没有任何发光条和未来装备。姿态放松中性，表情自然，全身完整入画，柔和平光。画面中不出现任何文字标注和草图。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，半写实，电影级布光，赛博朋克，霓虹，镜面金属，文字，字母，数字，水印，logo，多余手指，手部变形，五官错位
+
+定稿检查：一眼认出是爸爸小时候／穿今天的真实校服／没有未来装备
+
+========================================
+③ S11 2026 年的教室（回忆）（镜 25（回忆））
+上传参考：
+① R01_女主角色设定图.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, create a scene concept painting for the same animated film. Show an ordinary middle-school classroom in the year 2026, remembered as a warm memory: rows of desks pushed together, textbooks and stationery piled on them, a large wall-mounted smart screen at the front with a plain blank glowing surface, a blackboard edge beside it, green potted plants on the windowsill and late-afternoon sunlight slanting through the windows. Give the whole picture a slightly faded, sepia-warm palette with a soft film-grain feel, like an old photograph, while keeping the same hand-drawn line art. Frame it as a medium-wide shot from the back of the room toward the screen. The place is empty of people, and every sign surface is a plain blank panel. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 场景设定图：参考@图片1的画风与配色。2026年一间普通的中学教室，像一段温暖的回忆：课桌拼在一起，上面堆着课本和文具；教室前面挂着一块大大的智慧屏，屏幕是空白的、微微发亮，旁边露出一截黑板；窗台上摆着绿植，午后的阳光斜斜地照进来。整个画面色调略微泛黄褪色，带一点柔和的胶片颗粒感，像一张老照片，线条仍是同样的手绘风格。视角：从教室后排望向前方大屏的中远景。画面中没有任何人物、文字和标志。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹灯，全息大屏，镜面金属，文字，字母，水印，logo，城堡，巨树，飞艇，未来科技，发光条
+
+定稿检查：是“今天”的教室，没有任何未来元素／屏幕空白，内容后期合成

@@ -1,0 +1,90 @@
+﻿段3_镜18-32_高架_52.5秒（不含镜25）
+
+这个文件夹还要放 6 张新图。每条给两种写法：用 Nano Banana 就复制英文那段，用即梦就复制中文那段。
+
+========================================
+⑦ S03 空中高架·上层（镜 18–28）
+上传参考：
+① R01_女主角色设定图.jpg
+② R12_样片_空中高架.jpg
+③ R13_样片_悬浮红绿灯.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, create a scene concept painting for the same animated film. Show a sky highway a few hundred meters above the city, built like the one in the attached film stills: suspended grey road decks with white lane lines and riveted side railings cross and curve gracefully through the air. Floating brass navigation rings line both sides, each with a ring of small cyan lights. At a junction hangs a floating traffic signal made of a red light ring and a green light ring. Brass-framed sign boards stand beside the lanes, each a plain cream panel. Three or four layers of lanes stack and cross, fading into the clouds in the distance, while a misty city and a wide river lie far below. Morning sunlight comes from the left under a deep blue sky with big white clouds. Frame it as a medium-wide shot level with the lanes, with the main lane running from the lower left to the far upper right. The place is empty of people, and every sign surface is a plain blank panel. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 场景设定图：参考@图片1的画风与配色。城市上空几百米的空中高架，路面样式与@图片2、@图片3（样片截图）一致：悬在空中的灰色高架路面，画着白色车道线，两侧是带铆钉的护栏，几条高架在空中交错延伸、优雅地弯曲；航道两边每隔一段漂浮着一只黄铜圆环航标，环上亮着一圈小小的青色灯；路口悬着一组由红色和绿色光环组成的悬浮红绿灯；航道边立着几块黄铜框的路牌架，牌面是空白的米色；上下有三四层航道交错，远处航道渐渐隐进云里。下方很远处是晨雾中的城市楼群和一条宽阔的江。早晨，阳光从左侧斜射，天空湛蓝，有大朵白云。视角：与航道平齐的中远景，航道从画面左下延伸向右上远处。画面中没有任何人物、文字和标志。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹灯，全息大屏，镜面金属，文字，字母，水印，logo，人物，城堡，巨树，飞艇
+
+定稿检查：与样片高架一致／路牌空白／不像赛博朋克
+
+========================================
+⑧ S04 手动驾驶专用道（下层）（镜 29–32）
+上传参考：
+① R01_女主角色设定图.jpg
+② S03 定稿图（先出）
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, and the attached sky-highway image as the exact reference for the lane structure, create a scene concept painting for the same animated film. Show the lower deck of the same sky highway as in the attached S03 image, keeping its exact structure: a narrower, older suspended road deck with faded lane lines, whose railings are worn to a shine and patched with paint in a few places. The lane is completely empty. A brass-framed sign board stands at the side as a plain cream panel. Overhead, the underside of the upper lane casts a long shadow, and on it you can just make out a long queue of flying vehicles stuck in traffic. The lower lane is bathed in warmer morning light than the deck above. Frame it as a deep, centered view straight down the empty lane toward the horizon. The place is empty of people, and every sign surface is a plain blank panel. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 场景设定图：参考@图片1的画风与配色。空中高架的下层航道：结构和上层一样，是悬在空中的灰色高架路面，但更窄、更旧，路面车道线有些褪色，黄铜护栏被磨得发亮，有几处补过漆；航道上空空荡荡，一辆车也没有；航道边一块黄铜框路牌，牌面空白；画面上方是上层航道的底面，投下一条长长的阴影，上层隐约能看到排成长龙的飞行器剪影；下层航道沐浴在温暖的晨光里，色调比上层更暖。视角：从下层航道中央向前看的纵深中景，航道笔直延伸向远方。画面中没有任何人物、文字和标志。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹灯，全息大屏，镜面金属，文字，字母，水印，logo，人物，城堡，巨树，飞艇
+
+定稿检查：与 S03 明显同一套结构／空无一车
+
+⑨ V01 自动驾驶云舱（通勤款）：已在 段2 出过，直接复制那张定稿图过来。
+
+========================================
+⑩ V02 自动驾驶云舱（客厅款）（镜 21–22）
+上传参考：
+① R01_女主角色设定图.jpg
+② V01 定稿图（先出）
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, and the attached sky-pod image as the exact reference for the vehicle family, create a vehicle design sheet for the same animated film, set in 2052. Show a stretched version of the attached egg-shaped sky pod, keeping its exact shape language and colors but twice as long, with one entire side made of a big picture window. Through the window you can see a tiny breakfast nook: a small round dining table with three cushioned seats around it, warm and homey but uncluttered. A soft cyan strip circles its body and six small ducted fans sit underneath. It hovers with its nose pointing right. The body is clean of any logos, plates or lettering. Present it in a side view on a plain aged cream-paper background with soft even lighting. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 交通工具设定图：参考@图片1的画风与配色。一辆加长版的自动驾驶飞行轿车，造型和配色与@图片2的蛋形云舱一致，但车身拉长一倍，一侧是一整面大落地窗。透过车窗能看到车里像一个小小的早餐角：一张圆形小餐桌，围着三个软垫座位，温馨但不杂乱。车身一圈青色细光条，底部六个小涵道。正侧面视角，车头朝右，悬浮在空中。米色旧纸张底，柔和平光。车身没有任何品牌标志、车牌和文字。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹，镜面金属，尖锐棱角的科幻造型，文字，字母，数字，车牌，品牌标志，水印
+
+定稿检查：与 V01 同一品系
+
+========================================
+⑪ V07 老式飞行三轮（镜 31）
+上传参考：
+① R01_女主角色设定图.jpg
+② R04_旧摩托起飞形态.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, and the attached flying motorbike as the reference for the home-made conversion style, create a vehicle design sheet for the same animated film, set in 2052. Show an old flying tricycle with a motorbike front and a tin cargo tub with wooden side rails, painted a faded dark green with several patched spots. All three wheels have been converted into ducted fans with brass guide rings, clearly home-modified with the same hand-made craftsmanship as the attached motorbike. A round warm-yellow headlamp and a squeeze-bulb horn sit at the front. It hovers with its nose pointing right. The body is clean of any logos, plates or lettering. Present it in a side view on a plain aged cream-paper background with soft even lighting. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 交通工具设定图：参考@图片1的画风与配色。一辆老式飞行三轮车：前面是摩托车头，后面是一只铁皮车斗，木头扶手，车身是褪色的墨绿色，有好几块补漆；三只车轮都改装成了带黄铜导流环的涵道风扇；车头一只圆形暖黄老车灯和一个按压式喇叭。看得出是自家改装的。正侧面视角，车头朝右，悬浮在空中。米色旧纸张底，柔和平光。车身没有任何品牌标志、车牌和文字。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹，镜面金属，尖锐棱角的科幻造型，文字，字母，数字，车牌，品牌标志，水印
+
+定稿检查：和爸爸的摩托像同一种手艺
+
+========================================
+⑫ C17 开三轮的老爷爷（镜 31）
+上传参考：
+① R01_女主角色设定图.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style, line weight, coloring and sheet layout, create a character design sheet for an old man who drives a vintage flying tricycle, a new character from the same animated film. He is a wiry Chinese man in his mid-seventies with snow-white short hair and a white beard, wearing an old leather aviator cap with ear flaps and brass-framed goggles pushed up on it, a red-brown plaid shirt under a worn brown leather vest, dark trousers and old leather boots, with a big hearty smile. Nothing on him glows. Show two views side by side: a front full body on the left and a front half-body close-up on the right, on a plain aged cream-paper background, with soft even lighting and a relaxed, neutral standing pose with the whole body in frame. Keep the sheet clean, with only the drawings and no labels, notes or sketches. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 参考@图片1（女儿的角色设定图）的画风、线条粗细、上色方式和配色，画一张同一部动画里一位开老式飞行三轮的老爷爷的角色设定图：正面全身和正面半身特写两个视图左右并排，米色旧纸张底。人物：七十多岁的中国老爷爷，精瘦，雪白的短发和一圈白胡子；头戴一顶带耳罩的旧皮飞行帽，一副黄铜框护目镜推在帽檐上；穿红棕格子衬衫，外套一件磨旧的棕色皮马甲，深色长裤，旧皮靴。笑容爽朗。全身没有发光条。姿态放松中性，表情自然，全身完整入画，柔和平光。画面中不出现任何文字标注和草图。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，半写实，电影级布光，赛博朋克，霓虹，镜面金属，文字，字母，数字，水印，logo，多余手指，手部变形，五官错位
+
+定稿检查：—
