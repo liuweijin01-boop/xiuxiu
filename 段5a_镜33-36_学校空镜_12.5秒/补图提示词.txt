@@ -1,0 +1,89 @@
+﻿段5a_镜33-36_学校空镜_12.5秒
+
+这个文件夹还要放 5 张新图。每条给两种写法：用 Nano Banana 就复制英文那段，用即梦就复制中文那段。
+
+========================================
+② S01-B 空中绣山全景（新布局）（镜 33）
+上传参考：
+① R01_女主角色设定图.jpg
+② R09_校园布局图.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, and the attached campus layout map as the reference for the campus, create a scene concept painting for the same animated film. Use the attached campus layout map only for the positions, shapes and architecture of the islands and buildings; ignore its text labels, compass roses, legend and paper-map border, and render everything as a real, living place rather than a map. Show the whole floating Xiushan Middle School at sunrise as one breathtaking establishing view. Five pieces float above a sea of clouds, arranged exactly as in the map: in the north-west, an island with a great geodesic glass dome framed in brass, a glowing cyan ring around its base and two floating training hoops above it; in the middle, a small island with a tall tower shaped like a standing closed book, its spine and page edges clearly visible and its window grid glowing warm gold; in the east, an island with white vertically-ribbed buildings, a red running track and a green football pitch; in the west, an island with two red-brick buildings wrapped in perforated brick screens, linked by a bridge, beside a pond with a hexagonal pavilion whose water spills off the island edge as a waterfall; and in the south, nearest to us, a round landing plaza ringed on its far side by a curved red-brick wall. Glass corridor bridges link the islands, and one long glass-roofed bridge with brass arches slopes from a Chinese gate on the west island down to the landing plaza. Every island's underside is an inverted rocky mountain hung with vines and dotted with purple and golden autumn trees, and each island edge carries a thin cyan light strip. Far below, a city shows through gaps in the clouds. The low golden sun rises from the east, warming the brick and the glass. Frame it as a high three-quarter aerial view from the south, with the landing plaza in the lower right foreground and the glass dome at the upper left, leaving open sky around the campus. Every sign surface, plaque and banner is left as a plain blank panel, and the place is empty of people. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 场景设定图：参考@图片1的画风与配色，参考@图片2（校园布局图）中的浮岛位置与建筑样式。布局图只用来参考浮岛和建筑的位置、形状与样式，不要画出图上的文字标注、指南针、图例和地图边框，要画成真实的场景，而不是地图。画面：日出时分，整座空中绣山中学漂浮在云海之上，五个部分的位置与布局图完全一致：西北是一座浮岛，岛上是黄铜框架的巨大三角格玻璃穹顶，穹顶脚下一圈青色光环，上空悬着两只训练环；正中是一座小浮岛，岛上立着一栋像一本竖立合起的书的高楼，书脊和书页边清晰可见，窗格透出暖金色灯光；东边浮岛上是白色竖肋教学楼、红色环形跑道和绿茵足球场；西边浮岛上是两栋外包镂空砖幕墙的红砖教学楼，由连廊相连，旁边一方池塘，池中一座六角亭，池水从岛沿落下成瀑布；最南边、离镜头最近的是一座圆形落客广场，远侧围着半圈红砖环墙。浮岛之间由玻璃连廊相连，一条玻璃顶、黄铜拱框的长长云桥从西校区的中式牌楼斜斜通到落客广场。每座浮岛的底部都是倒立的岩山，垂着藤蔓，点缀着紫色和金黄色的秋树，岛沿各有一圈青色细光条。云层缝隙下隐约可见城市。低低的金色朝阳从东边升起，照暖了红砖和玻璃。视角：从南边高处斜俯视的三分之二鸟瞰，落客广场在右下前景，玻璃穹顶在左上，四周留出天空。所有招牌、匾额和横幅都留空，画面中没有人物、文字和标志。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹灯，全息大屏，镜面金属，文字，字母，水印，logo，地图边框，指南针，图例，人物，城堡，巨树，飞艇
+
+定稿检查：五部分位置与布局图一致／没有文字标注和地图边框／书形高楼的书脊可辨
+
+========================================
+③ S05 落客环与红砖校名环墙（镜 34–44）
+上传参考：
+① R01_女主角色设定图.jpg
+② R09_校园布局图.jpg
+③ R17_样片_校名墙.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, and the attached campus layout map as the reference for the campus, create a scene concept painting for the same animated film. Use the attached campus layout map only for the positions, shapes and architecture of the islands and buildings; ignore its text labels, compass roses, legend and paper-map border, and render everything as a real, living place rather than a map. Show the round landing plaza at the south of the campus: a circular stone plaza floating on a disc of rock above the clouds, with a ring of parking bays marked by painted lines and, at its center, a round landing pad edged in brass. Around the far half of the plaza curves a tall red-brick wall with brick pilasters capped in pale stone; across the middle of the wall runs a long blank band where large raised gold lettering will go, just like the school-name wall in the earlier film. Where the wall opens, a Chinese gateway with a blue glazed-tile roof and vermilion pillars leads onto a long glass-roofed bridge with brass arches. A wooden signal platform with two plain flags stands beside the gate. A thin cyan light strip runs around the plaza's edge, and golden autumn trees lean over from the neighbouring island. Morning sun comes from the left. Frame it from a medium-high angle on the south side of the plaza, looking north toward the curved wall and the gateway. Every sign surface, plaque and banner is left as a plain blank panel, and the place is empty of people. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 场景设定图：参考@图片1的画风与配色，参考@图片2（校园布局图）中的浮岛位置与建筑样式。布局图只用来参考浮岛和建筑的位置、形状与样式，不要画出图上的文字标注、指南针、图例和地图边框，要画成真实的场景，而不是地图。画面：校园最南端的圆形落客广场，漂浮在云海上的一块圆形岩台上；广场地面画着一圈停靠位，中央是一座黄铜包边的圆形起降台；广场远侧环绕着半圈高大的红砖墙，砖墙每隔一段有一根砖柱，柱顶是浅色石帽；墙面中部横贯一条留空的长条，用来放大大的金色浮雕字（就像样片里那面校名墙）；砖墙的开口处是一座蓝色琉璃瓦屋顶、朱红立柱的中式牌楼，牌楼后面接着一条玻璃顶、黄铜拱框的长云桥；牌楼旁有一座小小的木质挥旗台，插着两面空白的信号旗；广场边沿一圈青色细光条，旁边浮岛的金黄秋树探过来。晨光从左侧照来。视角：从广场南侧中高处看向北边的红砖环墙和牌楼。所有招牌、匾额和横幅都留空，画面中没有人物、文字和标志。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹灯，全息大屏，镜面金属，文字，字母，水印，logo，地图边框，指南针，图例，人物，城堡，巨树，飞艇
+
+定稿检查：红砖环墙半圈＋砖柱石帽／金字位置留空／牌楼在墙的开口处／起降台在中央
+
+========================================
+④ S08 绣山牌楼（镜 34–35）
+上传参考：
+① R01_女主角色设定图.jpg
+② R09_校园布局图.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, and the attached campus layout map as the reference for the campus, create a scene concept painting for the same animated film. Use the attached campus layout map only for the positions, shapes and architecture of the islands and buildings; ignore its text labels, compass roses, legend and paper-map border, and render everything as a real, living place rather than a map. Show a front view of the Chinese gateway that stands in the opening of the landing plaza's red-brick wall, made grander than in the map: about twelve meters tall, with a double-eaved blue glazed-tile roof whose eaves sweep upward at the corners, two thick vermilion lacquered round pillars on carved grey stone bases, and beams painted in navy and gold with brass end caps and rivets that hint at the retro-mechanical future. A large plaque at the center of the upper beam is left blank. On each side stands a white wing wall topped with blue tiles, as in the map. Below the main beam hangs a huge plain navy banner tied with brass rings, billowing in the wind. A thin cyan light strip runs along the stone base, and through the gate you can see the glass-roofed cloud bridge stretching away, with the glass dome of the robot arena gleaming far in the distance. Golden morning light comes from behind the gate, and a few white doves fly past. Frame it from a low angle looking up at the gate, centered and symmetrical, so it feels tall and solemn. Every sign surface, plaque and banner is left as a plain blank panel, and the place is empty of people. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 场景设定图：参考@图片1的画风与配色，参考@图片2（校园布局图）中的浮岛位置与建筑样式。布局图只用来参考浮岛和建筑的位置、形状与样式，不要画出图上的文字标注、指南针、图例和地图边框，要画成真实的场景，而不是地图。画面：落客广场红砖环墙开口处的那座中式牌楼，比布局图里更高大壮观：约十二米高，蓝色琉璃瓦重檐屋顶，檐角高高翘起；两根粗壮的朱红漆圆柱立在雕花青石柱础上；梁枋彩绘深蓝与金色，梁头包着黄铜帽、钉着铆钉，带一点复古机械的未来感；上层正中一块大匾额，匾面留空；两侧是布局图里那样的白墙蓝瓦翼墙；主梁下横挂一幅巨大的深蓝色横幅，两端系着黄铜环，迎风鼓起，横幅上没有字；石基沿一圈青色细光条；透过牌楼，能看到玻璃顶的云桥向远处延伸，远处大赛馆的玻璃穹顶闪着光。金色晨光从牌楼背后照来，几只白鸽飞过。视角：低机位仰拍正面，居中对称，显得高大庄严。所有招牌、匾额和横幅都留空，画面中没有人物、文字和标志。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹灯，全息大屏，镜面金属，文字，字母，水印，logo，地图边框，指南针，图例，人物，城堡，巨树，飞艇
+
+定稿检查：蓝琉璃重檐／朱红柱＋石础／白墙蓝瓦翼墙／匾额与横幅留空
+
+========================================
+⑤ S09 云桥（镜 35、44）
+上传参考：
+① R01_女主角色设定图.jpg
+② R09_校园布局图.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, and the attached campus layout map as the reference for the campus, create a scene concept painting for the same animated film. Use the attached campus layout map only for the positions, shapes and architecture of the islands and buildings; ignore its text labels, compass roses, legend and paper-map border, and render everything as a real, living place rather than a map. Show the long cloud bridge that links the landing plaza's gateway to the gateway of the west campus: a straight covered walkway sloping gently upward across open sky, with a pitched glass roof and glass side panels held by a rhythm of brass arched ribs, a warm wooden walkway inside, and a thin cyan light strip along its base. A slender stone arch supports it from below over the drifting clouds. At the far end, the second blue-roofed Chinese gateway and the red-brick perforated buildings of the west campus rise above a waterfall. Morning sun slants through the glass and throws a ladder of light and shadow along the walkway. Frame it as a three-quarter side view from just below the bridge, so its whole length runs from the lower right to the upper left of the frame. Every sign surface, plaque and banner is left as a plain blank panel, and the place is empty of people. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 场景设定图：参考@图片1的画风与配色，参考@图片2（校园布局图）中的浮岛位置与建筑样式。布局图只用来参考浮岛和建筑的位置、形状与样式，不要画出图上的文字标注、指南针、图例和地图边框，要画成真实的场景，而不是地图。画面：连接落客广场牌楼和西校区牌楼的长云桥：一条笔直、缓缓向上倾斜的廊桥横跨天空，坡面玻璃顶和玻璃侧板由一道道黄铜拱肋撑起，节奏整齐，桥内是温暖的木地板，桥基一圈青色细光条；桥下一道纤细的石拱托着它，下面是流动的云；桥的尽头是西校区的第二座蓝顶牌楼，后面耸着红砖镂空教学楼和一道瀑布。晨光斜穿过玻璃，在桥面上投下一格一格的光影。视角：从桥的斜下方看过去的三分之二侧面，整座桥从画面右下延伸到左上。所有招牌、匾额和横幅都留空，画面中没有人物、文字和标志。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹灯，全息大屏，镜面金属，文字，字母，水印，logo，地图边框，指南针，图例，人物，城堡，巨树，飞艇
+
+定稿检查：玻璃顶＋黄铜拱肋／桥下石拱／两端都是牌楼
+
+========================================
+⑥ S10 云穹杯大赛馆与智核工坊岛（镜 33、45）
+上传参考：
+① R01_女主角色设定图.jpg
+② R09_校园布局图.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, and the attached campus layout map as the reference for the campus, create a scene concept painting for the same animated film. Use the attached campus layout map only for the positions, shapes and architecture of the islands and buildings; ignore its text labels, compass roses, legend and paper-map border, and render everything as a real, living place rather than a map. Show the north-west island that hosts the Yunqiong Cup AI robot competition. At its center rises a great geodesic dome of triangular glass panels framed in brass, entered through a heavy brass arch on its front; around the dome's base glows a wide cyan light ring set into the ground, and two large floating training hoops hover in the air above the island, one to the left and one to the right. Looping paths and a small test track wind around the dome. Behind it on the right sits the Zhihe Workshop, a long low building with a rooftop landing pad. Autumn trees in gold and orange grow at the island's edges, a glass corridor bridge leaves the island toward a tall book-shaped tower, and the island's underside is an inverted rocky mountain hung with vines. Morning sun lights the dome so its glass sparkles. Frame it as a high three-quarter aerial view of the whole island. Every sign surface, plaque and banner is left as a plain blank panel, and the place is empty of people. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 场景设定图：参考@图片1的画风与配色，参考@图片2（校园布局图）中的浮岛位置与建筑样式。布局图只用来参考浮岛和建筑的位置、形状与样式，不要画出图上的文字标注、指南针、图例和地图边框，要画成真实的场景，而不是地图。画面：西北边那座举办云穹杯 AI 机器人大赛的浮岛：岛中央是一座巨大的穹顶，由黄铜框架的三角形玻璃拼成，正面一道厚重的黄铜拱门；穹顶脚下的地面嵌着一圈宽宽的青色光环；岛的上空一左一右悬着两只巨大的训练环；穹顶周围绕着环形小路和一条小小的测试跑道；穹顶右后方是一栋长长的低矮建筑——智核工坊，屋顶有一块起降台；岛沿长着金黄和橙色的秋树，一条玻璃连廊从岛上通向那栋书形高楼；岛底是倒立的岩山，垂着藤蔓。晨光照在穹顶上，玻璃闪闪发亮。视角：整座岛的高处三分之二鸟瞰。所有招牌、匾额和横幅都留空，画面中没有人物、文字和标志。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹灯，全息大屏，镜面金属，文字，字母，水印，logo，地图边框，指南针，图例，人物，城堡，巨树，飞艇
+
+定稿检查：三角格玻璃穹顶＋黄铜拱门／地面青色光环／两只悬浮训练环／工坊在右后方

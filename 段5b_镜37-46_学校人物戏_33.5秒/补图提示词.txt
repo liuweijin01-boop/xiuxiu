@@ -1,0 +1,104 @@
+﻿段5b_镜37-46_学校人物戏_33.5秒
+
+这个文件夹还要放 7 张新图。每条给两种写法：用 Nano Banana 就复制英文那段，用即梦就复制中文那段。
+
+⑤ S05 落客环与红砖校名环墙：已在 段5a 出过，直接复制那张定稿图过来。
+
+========================================
+⑥ S06 智核工坊·设计墙（内景）（镜 45）
+上传参考：
+① R01_女主角色设定图.jpg
+② R09_校园布局图.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, and the attached campus layout map as the reference for the campus, create a scene concept painting for the same animated film. Use the attached campus layout map only for the positions, shapes and architecture of the islands and buildings; ignore its text labels, compass roses, legend and paper-map border, and render everything as a real, living place rather than a map. Show the inside of the Zhihe Workshop beside the robot arena. A brass-framed glass skylight lets in the morning, and through a row of tall windows the great geodesic glass dome of the arena fills the view just outside. One whole wall is a wooden pegboard covered with dozens of hand-drawn robot designs pinned up with colorful pins and clips, drawn only with shapes and colors. In front of it stands a brass-edged submission desk with a brass stamp and a stack of drawings. Above the design wall hangs a round brass wall clock with a plain face and two hands, without any numerals. Wooden workbenches scattered with gears, bamboo strips, wires and tools line the sides, and two or three half-built robots by older students stand in a corner. Fine wood dust floats in the sunbeams, and the workshop lamps glow warm yellow. Frame it as a medium shot facing the design wall, with the windows and the dome visible on one side. Every sign surface, plaque and banner is left as a plain blank panel, and the place is empty of people. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 场景设定图：参考@图片1的画风与配色，参考@图片2（校园布局图）中的浮岛位置与建筑样式。布局图只用来参考浮岛和建筑的位置、形状与样式，不要画出图上的文字标注、指南针、图例和地图边框，要画成真实的场景，而不是地图。画面：大赛馆旁边的智核工坊内部：屋顶是黄铜框玻璃天窗，侧面一排高窗，窗外近在眼前的就是大赛馆那座巨大的三角格玻璃穹顶；正面一整面木质洞洞板墙，钉满了几十张手绘的机器人设计图（只有图形和颜色，没有字），用彩色图钉和夹子固定；墙前一张黄铜包边的收件台，台上一枚黄铜收件章和一叠图纸；设计墙上方挂着一只圆形黄铜挂钟，钟面素净，只有两根指针，没有数字。两侧木工作台上散落着齿轮、竹条、电线和工具，角落立着两三台高年级学生做的半成品机器人。晨光里飘着细细的木屑，工坊的灯是暖黄色的。视角：正对设计墙的中景，画面一侧能看到窗户和窗外的穹顶。所有招牌、匾额和横幅都留空，画面中没有人物、文字和标志。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹灯，全息大屏，镜面金属，文字，字母，水印，logo，地图边框，指南针，图例，人物，城堡，巨树，飞艇
+
+定稿检查：窗外是玻璃穹顶／满墙图纸无字／收件台＋铜章／墙上挂钟（时间后期合成）
+
+========================================
+⑦ C05 苏芮（镜 38、40）
+上传参考：
+① R01_女主角色设定图.jpg
+② R07_校服多视图.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style, line weight, coloring and sheet layout, and the attached uniform turnaround as the exact reference for the outfit, create a character design sheet for Su Rui, a classmate of the heroine, a new character from the same animated film. She is a slim 12-year-old Chinese girl with a straight black chin-length bob and perfectly neat bangs, narrow sharp eyes and lips pressed into a thin line, with round brass-framed goggles pushed up on her forehead. She wears the future Xiushan school uniform exactly as shown in the attached uniform turnaround: a navy bomber jacket with a stand collar, segmented brass-gold shoulder pads, glowing cyan light stripes down both sleeves and along the collar, a softly glowing shield-shaped badge on the left chest, a blank brass name bar on the right chest, a cream V-neck sweater with gold trim over a white collared shirt, olive-green cargo joggers and brown leather lace-up boots; her jacket is zipped all the way to the top and everything about her outfit is neat and precise. She hugs a brass clipboard holding sheets of graph paper. Show four views side by side from left to right: front full body, side full body, back full body, and a front half-body close-up, on a plain aged cream-paper background, with soft even lighting and a relaxed, neutral standing pose with the whole body in frame. Keep the sheet clean, with only the drawings and no labels, notes or sketches. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 参考@图片1（女儿的角色设定图）的画风、线条粗细、上色方式、配色和版式，画一张同一部动画里女同学苏芮的角色设定图：正面全身、侧面全身、背面全身、正面半身特写四个视图从左到右并排，米色旧纸张底。人物：十二岁的中国女生，身形偏瘦，黑色齐耳波波头，刘海剪得整整齐齐；细长的眼睛，眼神锐利，嘴唇习惯性抿成一条线；额头上推着一副黄铜框的圆形护目镜。服装严格参考@图片2：未来款绣山校服：深海军蓝立领夹克，黄铜色分段肩甲，两袖和领口有青色发光细光条，左胸一枚微微发光的盾形智慧胸针，右胸一块空白黄铜名牌，左上臂一块方形臂章；内搭金色V领边的奶油色针织毛衣和白色翻领衬衫；橄榄绿工装束脚裤；棕色皮系带靴。她的夹克拉链拉到最顶，衣着一丝不苟。怀里抱着一块黄铜夹板，夹着几张方格纸。姿态放松中性，表情自然，全身完整入画，柔和平光。画面中不出现任何文字标注和草图。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，半写实，电影级布光，赛博朋克，霓虹，镜面金属，文字，字母，数字，水印，logo，多余手指，手部变形，五官错位
+
+定稿检查：校服与女主完全同款／波波头＋护目镜一眼区分
+
+========================================
+⑧ C06 陈野（镜 38）
+上传参考：
+① R01_女主角色设定图.jpg
+② R07_校服多视图.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style, line weight, coloring and sheet layout, and the attached uniform turnaround as the exact reference for the outfit, create a character design sheet for Chen Ye, a classmate of the heroine, a new character from the same animated film. He is a 13-year-old Chinese boy, half a head taller than his classmates, broad-shouldered and tanned, with a buzz cut, thick eyebrows, a cheeky grin that shows one small canine tooth, and a band-aid across the bridge of his nose. He wears the future Xiushan school uniform exactly as shown in the attached uniform turnaround: a navy bomber jacket with a stand collar, segmented brass-gold shoulder pads, glowing cyan light stripes down both sleeves and along the collar, a softly glowing shield-shaped badge on the left chest, a blank brass name bar on the right chest, a cream V-neck sweater with gold trim over a white collared shirt, olive-green cargo joggers and brown leather lace-up boots, with the jacket open and the sleeves rolled to the elbows, plus black knee pads, and holds a rolled-up drawing in one hand. Show four views side by side from left to right: front full body, side full body, back full body, and a front half-body close-up, on a plain aged cream-paper background, with soft even lighting and a relaxed, neutral standing pose with the whole body in frame. Keep the sheet clean, with only the drawings and no labels, notes or sketches. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 参考@图片1（女儿的角色设定图）的画风、线条粗细、上色方式、配色和版式，画一张同一部动画里男同学陈野的角色设定图：正面全身、侧面全身、背面全身、正面半身特写四个视图从左到右并排，米色旧纸张底。人物：十三岁的中国男生，比同龄人高半个头，肩膀宽；小麦色皮肤，寸头，浓眉，咧嘴笑时露出一颗小虎牙，鼻梁上贴着一块创可贴。服装严格参考@图片2：未来款绣山校服：深海军蓝立领夹克，黄铜色分段肩甲，两袖和领口有青色发光细光条，左胸一枚微微发光的盾形智慧胸针，右胸一块空白黄铜名牌，左上臂一块方形臂章；内搭金色V领边的奶油色针织毛衣和白色翻领衬衫；橄榄绿工装束脚裤；棕色皮系带靴。他的夹克敞开着，袖子挽到手肘，双膝戴黑色护膝。手里攥着一卷画纸。姿态放松中性，表情自然，全身完整入画，柔和平光。画面中不出现任何文字标注和草图。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，半写实，电影级布光，赛博朋克，霓虹，镜面金属，文字，字母，数字，水印，logo，多余手指，手部变形，五官错位
+
+定稿检查：校服同款／创可贴＋护膝
+
+========================================
+⑨ C15 钟老师（镜 43）
+上传参考：
+① R01_女主角色设定图.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style, line weight, coloring and sheet layout, create a character design sheet for Ms. Zhong, the robotics workshop teacher, a new character from the same animated film. She is a brisk Chinese woman of about 28 with black hair in a low ponytail, thin metal-rimmed glasses, straight eyebrows and a calm, no-nonsense expression. She wears a dark grey stand-collar shirt with rolled sleeves under a khaki canvas work apron whose pockets hold a screwdriver, pencils and a brass caliper, with dark trousers and brown work shoes, and stands with her arms crossed. Nothing on her glows. Show two views side by side: a front full body on the left and a front half-body close-up on the right, on a plain aged cream-paper background, with soft even lighting and a relaxed, neutral standing pose with the whole body in frame. Keep the sheet clean, with only the drawings and no labels, notes or sketches. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 参考@图片1（女儿的角色设定图）的画风、线条粗细、上色方式和配色，画一张同一部动画里智核工坊的钟老师的角色设定图：正面全身和正面半身特写两个视图左右并排，米色旧纸张底。人物：二十八岁左右的中国女教师，身形干练利落；黑发在脑后扎成低马尾，戴一副细框金属眼镜，眉毛平直，表情冷静；穿深灰色立领衬衫，袖子挽到小臂，外面罩一件卡其色帆布工装围裙，围裙口袋里插着螺丝刀、铅笔和一把黄铜游标卡尺；深色长裤，棕色工装鞋。双臂抱在胸前。全身没有发光条。姿态放松中性，表情自然，全身完整入画，柔和平光。画面中不出现任何文字标注和草图。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，半写实，电影级布光，赛博朋克，霓虹，镜面金属，文字，字母，数字，水印，logo，多余手指，手部变形，五官错位
+
+定稿检查：抱臂姿态／围裙口袋里的工具
+
+========================================
+⑩ P05 苏芮的手绘图与陈野的 AI 效果图（镜 38）
+上传参考：
+① R01_女主角色设定图.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, create a prop design sheet for the same animated film. Show two design items side by side, seen from a slight high angle. On the left is a sheet of graph paper with a perfectly symmetrical four-ducted-fan flying robot drawn by hand with a ruler and a sharp pencil, clean and precise, covered in dimension lines and angle arcs drawn as pure lines. On the right is a thin glass tablet lying flat, with a glossy machine-made image floating a few centimeters above it in a cool cyan glow: a big bulldozer-like robot with a huge front scoop and heavy treads, perfectly smooth, evenly lit and flawless, clearly generated by a computer rather than drawn by hand. The contrast is obvious at a glance: one is careful handwork, the other is slick and effortless. Present it on a plain aged cream-paper background with soft even lighting. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 道具设定图：参考@图片1的画风与配色。左右两件设计稿并排，略俯视。左边是一张方格纸，上面用直尺和铅笔手工画着一台严格对称的四涵道飞行机器人，线条精准干净，标满尺寸线和角度弧线（只有线条，没有数字和文字）。右边是一块平放的薄玻璃平板，平板上方几厘米处悬浮着一张泛着青色微光的电脑生成效果图：一台像推土机一样的大机器人，巨大的铲斗、粗壮的履带，表面光滑、光照均匀、完美无瑕，一看就是机器一键生成的，不是手画的。一边是认真的手工，一边是轻松的一键生成，对比一目了然。米色旧纸张底，柔和平光。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹，镜面金属，可读文字，水印，logo
+
+定稿检查：一手工一 AI，一眼看出差别／平板与浮图上无文字
+
+========================================
+⑪ P06 高年级机器人三款＋初一纸板模型（镜 37）
+上传参考：
+① R01_女主角色设定图.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, create a prop design sheet for the same animated film. Show three robots built by middle-school students in a row. On the left, a dragonfly-like flying robot with a slender wooden body and four translucent wings on bamboo ribs, about 1.2 meters across. In the middle, a crab-like walking robot with a flat round brass shell, six jointed brass legs and two front pincers. On the right, a robot like a tin duck with a round patched body, a little shovel for a beak and wide webbed feet. All three are hand-built from brass, wood, bamboo and leather with rivets and visible home-made repairs, each with one thin cyan light strip, and all are smaller than a person. Along the bottom, add a row of small, wobbly, adorable robot models that first-year students made from cardboard and tape. Present it on a plain aged cream-paper background with soft even lighting. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 道具设定图：参考@图片1的画风与配色。一张道具设定图，横排展示三台中学生自制的机器人：左边一台像蜻蜓的飞行机器人，细长的木质身体，四片竹骨架撑开的半透明薄翼，翼展大约一米二；中间一台像螃蟹的步行机器人，扁圆的黄铜外壳，六条带关节的黄铜腿，前面两只钳子；右边一台像铁皮鸭子的机器人，圆滚滚的身体补过几块漆，扁扁的嘴是一把小铲子，两只脚是宽宽的蹼。三台机器人都由黄铜、木头、竹子和皮革做成，带铆钉和手工改装的痕迹，身上各有一条细细的青色光条。画面最下方一排，摆着几只初一学生用纸板和胶带做的小机器人模型，歪歪扭扭，很可爱。米色旧纸张底，柔和平光。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹，镜面金属，可读文字，水印，logo，人形巨型机器人，机甲
+
+定稿检查：都小于人／没有人形机甲
