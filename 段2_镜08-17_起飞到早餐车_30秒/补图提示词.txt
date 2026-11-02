@@ -1,0 +1,67 @@
+﻿段2_镜08-17_起飞到早餐车_30秒
+
+这个文件夹还要放 4 张新图。每条给两种写法：用 Nano Banana 就复制英文那段，用即梦就复制中文那段。
+
+========================================
+⑧ P04-B 风筝号设计图（加箭头后）（镜 15 起）
+上传参考：
+① P04-A 定稿图（先出）
+
+【Nano Banana】
+Using the provided drawing, keep the paper, the composition, the robot and every pencil stroke and color exactly the same. Only add one big spiral arrow drawn hard in grey pencil beside the right wing, looping around once and pointing back at the wing; its line is fresh and darker than the rest of the drawing.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 道具设定图：以上传的@图片1（P04-A 定稿图）为准，严格保持画纸、构图、机器人图案和涂色完全一致，只在右侧翅膀旁边新增一个用灰色铅笔用力画出的大大的回旋箭头，箭头绕了一个圈又指回翅膀，笔迹很新、比其他线条更重。米色旧纸张底。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹，镜面金属，可读文字，水印，logo
+
+定稿检查：除新箭头外完全不变
+
+========================================
+⑨ V01 自动驾驶云舱（通勤款）（镜 9、18）
+上传参考：
+① R01_女主角色设定图.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, create a vehicle design sheet for the same animated film, set in 2052. Show an autonomous flying car called a sky pod, shaped like a smooth, rounded egg, with a cream-white upper body and a light grey lower body. Large curved windows reveal four seats facing each other in pairs and no steering wheel. A soft cyan light strip circles its waist, and four small brass-rimmed ducted fans sit at its lower corners. It hovers in the air with its nose pointing right. The body is clean of any logos, plates or lettering. Present it in a side view on a plain aged cream-paper background with soft even lighting. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 交通工具设定图：参考@图片1的画风与配色。一辆2052年的自动驾驶飞行轿车“云舱”：外形像一颗圆润的蛋，奶油白车身配浅灰下半部，大块弧面车窗，能看到车里四个座位两两面对面、没有方向盘；车身腰线环绕一圈柔和的青色细光条；底部四角各有一个小巧的涵道风扇，边缘是黄铜色。正侧面视角，车头朝右，悬浮在空中。米色旧纸张底，柔和平光。车身没有任何品牌标志、车牌和文字。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹，镜面金属，尖锐棱角的科幻造型，文字，字母，数字，车牌，品牌标志，水印
+
+定稿检查：圆润无棱角
+
+========================================
+⑩ V03 学校飞行巴士（镜 9）
+上传参考：
+① R01_女主角色设定图.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, create a vehicle design sheet for the same animated film, set in 2052. Show a long school flying bus with a bright yellow upper body and a navy lower body, the school's colors, a long row of square side windows, a rounded, friendly front with two round headlights, two big brass ducted fans on the roof and a thin cyan light strip along its side. It hovers with its nose pointing right. The body is clean of any logos, plates or lettering. Present it in a side view on a plain aged cream-paper background with soft even lighting. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 交通工具设定图：参考@图片1的画风与配色。一辆学校飞行巴士：长长的车身，上半部是明黄色、下半部是深蓝色（学校的黄蓝配色），侧面一长排方窗；车头圆润可爱，两只圆形车灯；车顶两侧各有一个大大的黄铜涵道风扇，车身侧面有一条青色细光条。正侧面视角，车头朝右，悬浮在空中。米色旧纸张底，柔和平光。车身没有任何品牌标志、车牌和文字。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹，镜面金属，尖锐棱角的科幻造型，文字，字母，数字，车牌，品牌标志，水印
+
+定稿检查：—
+
+========================================
+⑪ V04 物流无人机群（镜 9–10）
+上传参考：
+① R01_女主角色设定图.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, create a vehicle design sheet for the same animated film, set in 2052. Show a flock of dozens of small light-grey quadcopter delivery drones with brass trims sweeping through a turn together like a flock of birds, each carrying a kraft-paper parcel on a string, the whole flock forming one smooth curve from the upper left to the lower right. One drone carries a cake box tied with a red ribbon that swings a little. Show it as a wide view. The body is clean of any logos, plates or lettering. Present it in a side view on a plain aged cream-paper background with soft even lighting. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 交通工具设定图：参考@图片1的画风与配色。一群物流无人机在空中集体转弯，像一群鸟：几十架小巧的四旋翼无人机，机身是浅灰色带黄铜边，每架下面用细绳吊着一个牛皮纸包裹；整个机群排成一道流畅的弧线；其中一架吊着的是一个系着红丝带的蛋糕盒，有点晃。远景，机群从画面左上掠向右下。米色旧纸张底，柔和平光。车身没有任何品牌标志、车牌和文字。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹，镜面金属，尖锐棱角的科幻造型，文字，字母，数字，车牌，品牌标志，水印
+
+定稿检查：有弧线／有蛋糕盒

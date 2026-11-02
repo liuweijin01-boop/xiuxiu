@@ -1,0 +1,53 @@
+﻿段1_镜01-07_顶楼_21秒
+
+这个文件夹还要放 3 张新图。每条给两种写法：用 Nano Banana 就复制英文那段，用即梦就复制中文那段。
+
+========================================
+⑥ C03 奶奶（镜 2–4）
+上传参考：
+① R01_女主角色设定图.jpg
+② R11_样片_阳台老人.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style, line weight, coloring and sheet layout, create a character design sheet for the grandmother, Wang Haiyan, a new character from the same animated film. She is a 70-year-old Chinese grandmother, small and slightly stooped, with grey-white hair gathered into a low bun at the back of her head, a round face with deep smile lines, and thin lips that always hold a gentle smile. She wears a dark jujube-red knit cardigan over a cream round-neck top, navy floral fabric oversleeves on both forearms, loose black trousers and black cloth shoes, and holds a bamboo clothes hanger in her right hand. Nothing on her glows; she belongs to the old world. Show four views side by side from left to right: front full body, side full body, back full body, and a front half-body close-up, on a plain aged cream-paper background, with soft even lighting and a relaxed, neutral standing pose with the whole body in frame. Keep the sheet clean, with only the drawings and no labels, notes or sketches. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 参考@图片1（女儿的角色设定图）的画风、线条粗细、上色方式、配色和版式，画一张同一部动画里奶奶的角色设定图：正面全身、侧面全身、背面全身、正面半身特写四个视图从左到右并排，米色旧纸张底。人物：七十岁的中国老奶奶，个子瘦小，背微微有点驼；灰白头发在脑后盘成一个低发髻；圆脸，眼角有很深的笑纹，嘴唇薄，总是抿着一点笑；穿一件深枣红色针织开衫，里面是米白色圆领衫，两只小臂套着藏青色碎花布袖套；黑色宽松长裤，黑色布鞋；右手拿着一只竹衣架。她身上没有任何发光条和未来装置。姿态放松中性，表情自然，全身完整入画，柔和平光。画面中不出现任何文字标注和草图。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，半写实，电影级布光，赛博朋克，霓虹，镜面金属，文字，字母，数字，水印，logo，多余手指，手部变形，五官错位
+
+定稿检查：低发髻／枣红开衫／碎花袖套／和样片阳台老人像同一个人
+
+========================================
+⑦ S02 老小区顶楼与修车铺（镜 1–7（全季开场））
+上传参考：
+① R01_女主角色设定图.jpg
+② R10_样片_老城楼群.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, create a scene concept painting for the same animated film. Show the rooftop of an old Wenzhou apartment block at dawn. On the left, a tin-roofed shed has been turned into a small motorbike repair shop, its roller door half open and its back wall hung with wrenches and old parts, with a worn wooden workbench outside. In the center, a simple landing pad is marked by a painted white circle with faint tire marks. On the right, two floral quilts hang on two clotheslines, gently billowing in the morning breeze. Along the edge sit styrofoam boxes growing scallions and chilies, an old water tank and a small green iron door to the stairwell. Beyond the roof, old apartment blocks crowd together with laundry, AC units and flower pots on their balconies, morning mist drifting between them, and a few thin sky lanes with tiny flying vehicles in the distance. Warm golden sunlight comes low from the right and makes the mist glow. Frame it from a high three-quarter angle looking down over the roof, so the shop door, the landing circle and the quilts all fit in one shot. The place is empty of people, and every sign surface is a plain blank panel. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 场景设定图：参考@图片1的画风与配色。清晨的老城居民楼楼顶。画面左侧是一间铁皮屋顶的小棚子改成的摩托修车铺，卷帘门半开，里墙挂满大大小小的扳手和旧零件，门口摆着一张旧木工作台；楼顶中央是一块刷着白色圆圈的简易起降平台，地面有旧轮胎印；右侧两根晾衣绳上晾着两床花被子，被子被晨风吹得微微鼓起；楼顶边沿摆着几个泡沫箱，种着葱和辣椒，一只旧水箱，一扇通往楼梯间的绿漆小铁门。楼顶外，是一层层挤在一起的老居民楼，阳台上挂着衣服、空调外机和花盆，晨雾在楼与楼之间流动；远处天空里有几条细细的空中航道和很小的飞行器剪影。清晨，暖金色的阳光从右侧低低斜射，雾气发亮。视角：从楼顶斜侧上方俯拍，能同时看到修车铺门口、起降平台和晾被子的位置。画面中没有任何人物、文字和标志。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹灯，全息大屏，镜面金属，文字，字母，水印，logo，人物，城堡，巨树，飞艇
+
+定稿检查：三处表演区都在画内／这是全季开场固定机位
+
+========================================
+⑧ P04-A 风筝号设计图（加箭头前）（镜 4–7）
+上传参考：
+① R01_女主角色设定图.jpg
+
+【Nano Banana】
+Using the attached girl's character sheet as the reference for art style and color, create a prop design sheet for the same animated film. Show a flat sheet of A4 drawing paper, its edges slightly curled and one soft fold line across it, seen from directly above. On it is a robot design drawn in colored pencil by a 12-year-old girl: the robot's body is shaped like a diamond kite with thin bamboo frame lines, two large translucent wings decorated with paper-cut lace patterns, one big round eye in the center of the body, and a short ribbon tail. Hand-drawn arrows point to the wings and the eye and end in small empty label boxes. In the lower right corner sits one round blue ink stamp, slightly crooked, with an empty center. The strokes are earnest and childlike, the coloring slips past the lines, and the palette is mostly navy, cyan and brass yellow, so it looks like a real middle-schooler's homework rather than a technical drawing. Present it on a plain aged cream-paper background with soft even lighting. Render it in a hand-drawn 2D anime style with clean ink line art and flat cel shading with soft shadows, a warm, muted palette on aged cream-paper tones, retro-mechanical details in brass, leather and rivets, and a soft cyan glow only on future gear, matching the attached girl's character sheet exactly. Landscape 16:9.
+
+【即梦】
+Hand-drawn 2D anime style, clean ink line art, flat cel shading with soft shadows, warm muted palette with aged cream paper tones, retro-mechanical details in brass, leather and rivets, soft cyan glow accents only on future gear, 道具设定图：参考@图片1的画风与配色。一张平铺的A4画纸，纸张边缘微微卷起，有一道折痕。纸上是一个十二岁女孩用彩色铅笔画的机器人设计图：机器人的身体像一只菱形风筝，画着细细的竹骨架线；两侧是两片很大的半透明翅膀，翅膀上画着刻纸一样的镂空花纹；身体正中是一只又大又圆的眼睛；身体下面拖着一条短短的飘带尾巴。右下角盖着一枚歪歪的圆形蓝色印章，印章中间是空的。旁边画着几个指向翅膀和眼睛的手绘箭头，箭头末端是空白的小方框（没有字）。笔触稚气、认真，涂色有点出界，以深蓝、青色和黄铜黄为主，像真正的初一学生画的。俯视，画纸平铺在画面中央。米色旧纸张底，柔和平光。16:9横构图。
+
+【即梦负向词】
+写实，真实照片，3D渲染，厚涂油画，赛博朋克，霓虹，镜面金属，可读文字，水印，logo，专业工程图，电脑绘图
+
+定稿检查：像小孩画的，不像工程图／方框里没有字
